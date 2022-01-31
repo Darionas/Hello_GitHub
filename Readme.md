@@ -9,3 +9,5 @@ It now include steps for GitHub.
 I new line was added in "update-readme" branch
 
 Hi, I come back again.
+
+Changes were made before Pull.
